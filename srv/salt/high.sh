@@ -1,1 +1,1 @@
-sudo salt-call --local state.highstate --file-root /srv/salt
+sudo salt-call --local state.highstate --file-root srv/salt
