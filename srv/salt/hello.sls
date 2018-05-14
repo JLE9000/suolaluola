@@ -1,6 +1,7 @@
-install_python3ase:
+install_python:
   pkg.installed:
-    -pkgs:
+    - pkgs:
       - python3
       - python3-ase
       - git
+      - ssh
