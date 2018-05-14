@@ -1,4 +1,6 @@
-install_lamp:
+install_python3ase:
   pkg.installed:
-    - pkgs:
-      - apache2
+    -pkgs:
+      - python3
+      - python3-ase
+      - git

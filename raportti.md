@@ -3,3 +3,5 @@ install_python3ase:
     -pkgs:
       - python3
       - python3-ase
+      - git
+
